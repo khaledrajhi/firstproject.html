@@ -1,0 +1,28 @@
+li{
+    display: inline;
+    }
+    body{
+        text-align: center;
+    }
+    
+    p{
+        color: blue;
+    
+        font-family: roboto;
+    
+        text-align: center;
+    
+    }
+    
+     .email{
+    font-size: 20px;
+    color: red;
+     }
+     p{
+        font size: 25px;
+     }
+    
+     h1{
+        border: 20px solid burlywood;
+        
+     }
